@@ -1,4 +1,3 @@
-import React from 'react';
 import Spreadsheet from './components/Spreadsheet';
 
 export default function App() {

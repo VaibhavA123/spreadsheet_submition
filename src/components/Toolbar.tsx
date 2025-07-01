@@ -1,5 +1,3 @@
-import React from 'react';
-
 const Toolbar = () => (
   <div className="flex gap-4 text-sm border-b pb-2">
     {['Tool bar', 'Hide fields', 'Sort', 'Filter', 'Cell view'].map((item) => (

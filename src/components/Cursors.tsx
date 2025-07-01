@@ -1,5 +1,3 @@
-import React from 'react';
-
 const cursors = [
   { name: 'Abhishek Yadav', color: 'bg-green-500', x: 700, y: 20 },
   { name: 'TANYA KUMARI', color: 'bg-purple-500', x: 740, y: 160 },

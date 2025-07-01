@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 
 const Tabs = () => {
   const [activeTab, setActiveTab] = useState('Sheet 1');

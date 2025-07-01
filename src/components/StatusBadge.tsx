@@ -1,5 +1,3 @@
-import React from 'react';
-
 type Props = { value: string };
 
 const colors: Record<string, string> = {

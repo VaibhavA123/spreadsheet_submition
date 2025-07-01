@@ -1,4 +1,3 @@
-import React from 'react';
 import Toolbar from './Toolbar';
 import Grid from './Grid';
 import Cursors from './Cursors';
