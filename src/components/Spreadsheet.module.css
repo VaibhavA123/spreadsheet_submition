@@ -1,0 +1,43 @@
+/* File: src/components/Spreadsheet.module.css */
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  font-family: 'Inter', sans-serif;
+  color: #1d1c1d;
+  border: 1px solid #dadce0;
+}
+
+.th {
+  padding: 10px 12px;
+  text-align: left;
+  font-weight: 500;
+  color: #5f6368;
+  background-color: #f8f9fa;
+  border: 1px solid #dadce0;
+  min-width: 140px;
+}
+
+.td {
+  padding: 10px 12px;
+  border: 1px solid #dadce0;
+  white-space: nowrap;
+  height: 44px;
+  border-right: 1px solid black;
+  vertical-align: middle;
+}
+
+.link {
+  color: #1a73e8;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.rowEven {
+  background-color: #ffffff;
+}
+
+.rowOdd {
+  background-color: #f8f9fa;
+}
